@@ -5,7 +5,7 @@
 
 body {
 	font-family: "Segoe UI", sans-serif;
-	background: linear-gradient(to right, rgb(0,170,255), rgb(255,0,255));
+	background-color: rgb(255,0,255);
 }
 
 .nav {
@@ -23,7 +23,7 @@ body {
 	position: absolute;
 	top: 75px;
 	width: 100%;
-	background: linear-gradient(to right, rgb(0,170,255), rgb(255,0,255));
+	background: linear-gradient(rgb(0,170,255), rgb(255,0,255));
 	height: 620px;
 	color: white;
 	text-align: center;
